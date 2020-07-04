@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="624bf010-9d32-49ac-8c2f-8f2fe2cf50d4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="labelImg.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/labelImg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="281" column="25" selection-start-line="281" selection-start-column="13" selection-end-line="281" selection-end-column="25" />
+              <folding>
+                <element signature="e#45#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="predefined_points.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/predefined_points.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="canvas.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/canvas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="947" column="29" selection-start-line="947" selection-start-column="29" selection-end-line="947" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#3826#4194#0" />
+                <element signature="e#4233#4266#0" />
+                <element signature="e#4305#4328#0" />
+                <element signature="e#4367#4387#0" />
+                <element signature="e#4429#4449#0" />
+                <element signature="e#4490#4526#0" />
+                <element signature="e#4558#4589#0" />
+                <element signature="e#4621#4650#0" />
+                <element signature="e#4697#4840#0" />
+                <element signature="e#4876#4974#0" />
+                <element signature="e#5013#5044#0" />
+                <element signature="e#5099#10307#0" />
+                <element signature="e#10351#14534#0" />
+                <element signature="e#12506#14234#0" />
+                <element signature="e#14580#15509#0" />
+                <element signature="e#15553#16067#0" />
+                <element signature="e#16118#16374#0" />
+                <element signature="e#16421#16482#0" />
+                <element signature="e#16520#16584#0" />
+                <element signature="e#16634#16878#0" />
+                <element signature="e#16921#17094#0" />
+                <element signature="e#17143#17789#0" />
+                <element signature="e#17844#18098#0" />
+                <element signature="e#18146#18921#0" />
+                <element signature="e#18974#19837#0" />
+                <element signature="e#19875#20089#0" />
+                <element signature="e#20128#20329#0" />
+                <element signature="e#20371#20650#0" />
+                <element signature="e#20699#21043#0" />
+                <element signature="e#21647#22584#0" />
+                <element signature="e#22627#25413#0" />
+                <element signature="e#22825#22950#0" />
+                <element signature="e#25472#25722#0" />
+                <element signature="e#27396#27992#0" />
+                <element signature="e#28031#28467#0" />
+                <element signature="e#28503#28670#0" />
+                <element signature="e#28725#28744#0" />
+                <element signature="e#28781#29023#0" />
+                <element signature="e#29071#30151#0" />
+                <element signature="e#30190#30300#0" />
+                <element signature="e#30341#30716#0" />
+                <element signature="e#30774#31450#0" />
+                <element signature="e#31527#31978#0" />
+                <element signature="e#32028#32062#0" />
+                <element signature="e#32119#32244#0" />
+                <element signature="e#32309#32352#0" />
+                <element signature="e#32391#33286#0" />
+                <element signature="e#33349#33484#0" />
+                <element signature="e#33523#33888#0" />
+                <element signature="e#33927#34070#0" />
+                <element signature="e#34106#34381#0" />
+                <element signature="e#34425#34587#0" />
+                <element signature="e#34637#35569#0" />
+                <element signature="e#35658#36790#0" />
+                <element signature="e#36912#36941#0" />
+                <element signature="e#36981#37104#0" />
+                <element signature="e#37143#37592#0" />
+                <element signature="e#37639#38805#0" />
+                <element signature="e#38848#38927#0" />
+                <element signature="e#39225#39417#0" />
+                <element signature="e#39455#39737#0" />
+                <element signature="e#39778#39824#0" />
+                <element signature="e#39867#40068#0" />
+                <element signature="e#40111#40242#0" />
+                <element signature="e#40297#40347#0" />
+                <element signature="e#40395#40492#0" />
+                <element signature="e#40602#40675#0" />
+                <element signature="e#40716#40756#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shape.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/shape.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1144">
+              <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pascalVocIO.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/pascalVocIO.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1848">
+              <caret line="92" column="15" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="labelFile.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libs/labelFile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1188">
+              <caret line="57" column="90" selection-start-line="57" selection-start-column="90" selection-end-line="57" selection-end-column="90" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>update</find>
+      <find>draw</find>
+      <find>selectionChanged</find>
+      <find>deleteSelected</find>
+      <find>label</find>
+      <find>setLastLabel</find>
+      <find>points</find>
+      <find>painter</find>
+      <find>selectedShape</find>
+      <find>setSelectedIgnore</find>
+      <find>DEFAULT_SELECT_LINE_COLOR</find>
+      <find>select_line_color</find>
+      <find>savePascalVocFormat</find>
+      <find>shapes</find>
+      <find>format</find>
+      <find>reader</find>
+      <find>loadLabels</find>
+      <find>ignore</find>
+      <find>ig</find>
+      <find>line_color</find>
+      <find>addShape</find>
+      <find>addPolygonShape</find>
+      <find>appendObjects</find>
+      <find>genXML</find>
+      <find>addPolygon</find>
+      <find>polygon['instance_id'] = instance_id</find>
+      <find>addBndBox</find>
+      <find>txt</find>
+      <find>delete</find>
+      <find>point_delete</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/libs/canvas.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/libs/saveparse.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/libs/voc_to_coco.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/labelImg.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/libs/savepoint.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/libs/labelDialog.py" />
+        <option value="$PROJECT_DIR$/m.py" />
+        <option value="$PROJECT_DIR$/libs/voc_to_coco.py" />
+        <option value="$PROJECT_DIR$/libs/parse_to_coco" />
+        <option value="$PROJECT_DIR$/libs/settingDialog.py" />
+        <option value="$PROJECT_DIR$/data/predefined_classes_parse.txt" />
+        <option value="$PROJECT_DIR$/data/predefined_classes.txt" />
+        <option value="$PROJECT_DIR$/libs/saveparse.py" />
+        <option value="$PROJECT_DIR$/1_parse.xml" />
+        <option value="$PROJECT_DIR$/libs/savepoint.py" />
+        <option value="E:/Priv-lab1-2018-9-17-master/labelImg.py" />
+        <option value="$PROJECT_DIR$/resources.qrc" />
+        <option value="$PROJECT_DIR$/libs/lib.py" />
+        <option value="$PROJECT_DIR$/libs/toolBar.py" />
+        <option value="$PROJECT_DIR$/libs/Points_Model.py" />
+        <option value="$PROJECT_DIR$/libs/predefined_points.py" />
+        <option value="$PROJECT_DIR$/libs/shape.py" />
+        <option value="$PROJECT_DIR$/libs/canvas.py" />
+        <option value="$PROJECT_DIR$/labelImg.py" />
+        <option value="$PROJECT_DIR$/libs/pascalVocIO.py" />
+        <option value="$PROJECT_DIR$/libs/labelFile.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="504" />
+    <option name="y" value="-15" />
+    <option name="width" value="1380" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="labelimg-big" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labelimg-big" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labelimg-big" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labelimg-big" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="labelimg-big" type="b2602c69:ProjectViewProjectNode" />
+              <item name="labelimg-big" type="462c0819:PsiDirectoryNode" />
+              <item name="libs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/labelimg-big/libs/labelFile.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Priv-lab1-2018-9-17-maste-1\data" />
+      <recent name="E:\Priv-lab1-2018-9-17-maste-1\icons" />
+      <recent name="E:\Priv-lab1-2018-9-17-maste-1" />
+      <recent name="E:\Priv-lab1-2018-9-17-maste-1\libs" />
+      <recent name="E:\Priv-lab1-2018-9-17-master" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Priv-lab1-2018-9-17-maste-1" />
+      <recent name="E:\Priv-lab1-2018-9-17-master - 副本" />
+      <recent name="E:\Priv-lab1-2018-9-17-master" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.labelImg">
+    <configuration name="labelImg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Priv-lab1-2018-9-17-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/labelImg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="m" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Priv-lab1-2018-9-17-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/m.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="saveparse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Priv-lab1-2018-9-17-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libs/saveparse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="savepoint" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Priv-lab1-2018-9-17-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libs/savepoint.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="voc_to_coco" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Priv-lab1-2018-9-17-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libs/voc_to_coco.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.labelImg" />
+      <item itemvalue="Python.m" />
+      <item itemvalue="Python.voc_to_coco" />
+      <item itemvalue="Python.saveparse" />
+      <item itemvalue="Python.savepoint" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.labelImg" />
+        <item itemvalue="Python.savepoint" />
+        <item itemvalue="Python.saveparse" />
+        <item itemvalue="Python.voc_to_coco" />
+        <item itemvalue="Python.m" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="624bf010-9d32-49ac-8c2f-8f2fe2cf50d4" name="Default" comment="" />
+      <created>1537240862279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537240862279</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3536184" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17132352" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="36" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/libs/voc_to_coco.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/parse_to_coco" />
+    <entry file="file://$PROJECT_DIR$/5_point.xml" />
+    <entry file="file://$PROJECT_DIR$/data/predefined_sub_classes.txt.example" />
+    <entry file="file://$PROJECT_DIR$/data/predefined_classes.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/predefined_person.txt" />
+    <entry file="file://$PROJECT_DIR$/data/predefined_cls_classes.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/predefined_classes_parse.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/remoteDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/ustr.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/voc_to_coco.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="149" column="23" selection-start-line="149" selection-start-column="23" selection-end-line="149" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/zoomWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/fit-window.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_point.xml" />
+    <entry file="file://$PROJECT_DIR$/1_parse.xml" />
+    <entry file="file://$PROJECT_DIR$/libs/labelDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="892">
+          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5.xml" />
+    <entry file="file://E:/Priv-lab1-2018-9-17-master/libs/shape.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Priv-lab1-2018-9-17-master/libs/settingDialog.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Priv-lab1-2018-9-17-master/labelImg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="313" column="60" selection-start-line="313" selection-start-column="60" selection-end-line="313" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/anconda/Lib/site-packages/PyQt5/QtWidgets.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="6005" column="18" selection-start-line="6005" selection-start-column="8" selection-end-line="6005" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/de.jpg" />
+    <entry file="file://$PROJECT_DIR$/libs/settingDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6056">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/ImageManagement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-167">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/undo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/save-as.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/fit.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/edit.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/done.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/delete.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/cancel.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/objects.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/open.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/saveMaskImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/saveparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1308">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/savepoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="29" column="45" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/predefined_points.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/toolBar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/appSettings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/lib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/colorDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/labelFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="57" column="90" selection-start-line="57" selection-start-column="90" selection-end-line="57" selection-end-column="90" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/shape.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/pascalVocIO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="92" column="15" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libs/canvas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="947" column="29" selection-start-line="947" selection-start-column="29" selection-end-line="947" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#3826#4194#0" />
+            <element signature="e#4233#4266#0" />
+            <element signature="e#4305#4328#0" />
+            <element signature="e#4367#4387#0" />
+            <element signature="e#4429#4449#0" />
+            <element signature="e#4490#4526#0" />
+            <element signature="e#4558#4589#0" />
+            <element signature="e#4621#4650#0" />
+            <element signature="e#4697#4840#0" />
+            <element signature="e#4876#4974#0" />
+            <element signature="e#5013#5044#0" />
+            <element signature="e#5099#10307#0" />
+            <element signature="e#10351#14534#0" />
+            <element signature="e#12506#14234#0" />
+            <element signature="e#14580#15509#0" />
+            <element signature="e#15553#16067#0" />
+            <element signature="e#16118#16374#0" />
+            <element signature="e#16421#16482#0" />
+            <element signature="e#16520#16584#0" />
+            <element signature="e#16634#16878#0" />
+            <element signature="e#16921#17094#0" />
+            <element signature="e#17143#17789#0" />
+            <element signature="e#17844#18098#0" />
+            <element signature="e#18146#18921#0" />
+            <element signature="e#18974#19837#0" />
+            <element signature="e#19875#20089#0" />
+            <element signature="e#20128#20329#0" />
+            <element signature="e#20371#20650#0" />
+            <element signature="e#20699#21043#0" />
+            <element signature="e#21647#22584#0" />
+            <element signature="e#22627#25413#0" />
+            <element signature="e#22825#22950#0" />
+            <element signature="e#25472#25722#0" />
+            <element signature="e#27396#27992#0" />
+            <element signature="e#28031#28467#0" />
+            <element signature="e#28503#28670#0" />
+            <element signature="e#28725#28744#0" />
+            <element signature="e#28781#29023#0" />
+            <element signature="e#29071#30151#0" />
+            <element signature="e#30190#30300#0" />
+            <element signature="e#30341#30716#0" />
+            <element signature="e#30774#31450#0" />
+            <element signature="e#31527#31978#0" />
+            <element signature="e#32028#32062#0" />
+            <element signature="e#32119#32244#0" />
+            <element signature="e#32309#32352#0" />
+            <element signature="e#32391#33286#0" />
+            <element signature="e#33349#33484#0" />
+            <element signature="e#33523#33888#0" />
+            <element signature="e#33927#34070#0" />
+            <element signature="e#34106#34381#0" />
+            <element signature="e#34425#34587#0" />
+            <element signature="e#34637#35569#0" />
+            <element signature="e#35658#36790#0" />
+            <element signature="e#36912#36941#0" />
+            <element signature="e#36981#37104#0" />
+            <element signature="e#37143#37592#0" />
+            <element signature="e#37639#38805#0" />
+            <element signature="e#38848#38927#0" />
+            <element signature="e#39225#39417#0" />
+            <element signature="e#39455#39737#0" />
+            <element signature="e#39778#39824#0" />
+            <element signature="e#39867#40068#0" />
+            <element signature="e#40111#40242#0" />
+            <element signature="e#40297#40347#0" />
+            <element signature="e#40395#40492#0" />
+            <element signature="e#40602#40675#0" />
+            <element signature="e#40716#40756#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/predefined_points_skeleton.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/predefined_points.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/labelImg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="281" column="25" selection-start-line="281" selection-start-column="13" selection-end-line="281" selection-end-column="25" />
+          <folding>
+            <element signature="e#45#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

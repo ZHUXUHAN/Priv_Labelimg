@@ -1,0 +1,10 @@
+left_ear
+right_ear
+nose
+left_shoulder
+right_shoulder
+left_elbow
+right_elbow
+left_wrist
+right_wrist
+neck
