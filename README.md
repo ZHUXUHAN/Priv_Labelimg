@@ -37,3 +37,6 @@ python labelimg.py
 如果想可视化所标注的关键点，可参考本人的另外一个工程COCOAPI_Visualition
 
 注意：本工程仍在添加功能，尚只有本人个人维护，由于在做其他的project，本工程的代码版本不稳定，上诉的六个功能现在的使用情况尚好，如本project无法正常使用，可以联系我，我将提供最新稳定标注软件版本。
+
+Note: If you want to use keypoint mode, you can just reference the Priv-Labelimg-v2.1-Instructions.pdf.
+注意：如果你想使用关键点模式，你可以参照Priv-Labelimg-v2.1-Instructions.pdf。
